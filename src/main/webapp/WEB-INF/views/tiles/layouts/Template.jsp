@@ -7,7 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="tiles" uri="http://tiles.apache.org/tags-tiles"%>
-        <html>
+<html>
 <head>
     <title><tiles:insertAttribute name="title" ignore="true"/> </title>
 </head>

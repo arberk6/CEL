@@ -104,7 +104,6 @@
                     <configuration>
                         <warSourceDirectory>src/main/webapp</warSourceDirectory>
                         <warName>CEL</warName>
-                        <failOrMissingWebXml>false</failOrMissingWebXml>
                     </configuration>
                 </plugin>
             </plugins>
