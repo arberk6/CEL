@@ -7,5 +7,5 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <div>
-    <p>karin ma honksh arber</p>
+    <p>po bon</p>
 </div>
