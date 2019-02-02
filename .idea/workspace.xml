@@ -6,13 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10e40b7c-b837-44f6-aaa3-bad00708a7a5" name="Default Changelist" comment="" />
-    <list default="true" id="10e40b7c-b837-44f6-aaa3-bad00708a7a5" name="Default Changelist" comment="indian tutorial">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/REPO_war_exploded.xml" afterDir="false" />
+    <list default="true" id="10e40b7c-b837-44f6-aaa3-bad00708a7a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackt/config/WebConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/layouts/Template.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/layouts/Template.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hackt/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hackt/controller/HomeController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,121 +19,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hackt/controller/HomeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="170" selection-start-line="170" selection-end-line="170" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="497" selection-start-line="497" selection-end-line="497" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="198" selection-start-line="198" selection-end-line="198" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="845" selection-start-line="845" selection-end-line="845" />
-            <state relative-caret-position="136">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="572" selection-start-line="572" selection-end-line="572" />
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pages/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="528" selection-start-line="528" selection-end-line="528" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE-sources.jar!/org/springframework/web/servlet/HttpServletBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="173" column="36" lean-forward="true" selection-start-line="173" selection-start-column="36" selection-end-line="173" selection-end-column="36" />
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="221" selection-start-line="221" selection-end-line="221" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -147,6 +30,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;state&gt;</find>
+    </findStrings>
     <dirStrings>
       <dir>G:\Arber\Dokumente\UBT\Semester V\Dizajni Softuerik\Projekti\uploaded\APP\REPO\src\main\webapp\WEB-INF</dir>
     </dirStrings>
@@ -164,15 +50,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hackt/Controller/HomeController.java" />
         <option value="$PROJECT_DIR$/.idea/compiler.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/tile.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/tiles.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackt/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/layouts/Template.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackt/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java" />
       </list>
     </option>
   </component>
@@ -196,9 +82,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -209,22 +93,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CEL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CEL" type="462c0819:PsiDirectoryNode" />
+              <item name="REPO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="REPO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CEL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CEL" type="462c0819:PsiDirectoryNode" />
+              <item name="REPO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="REPO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="REPO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="REPO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CEL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CEL" type="462c0819:PsiDirectoryNode" />
+              <item name="REPO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="REPO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -270,56 +160,17 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CEL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CEL" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CEL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CEL" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CEL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CEL" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CEL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CEL" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549059202173" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549065591161" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -512,14 +363,6 @@
       <option name="project" value="LOCAL" />
       <updated>1549049997550</updated>
     </task>
-    <task id="LOCAL-00002" summary="indian tutorial">
-      <created>1549056164742</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1549056164742</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <task id="LOCAL-00002" summary="po boon">
       <created>1549058634209</created>
       <option name="number" value="00002" />
@@ -531,15 +374,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12046000" />
-    <option name="totallyTimeSpent" value="9062000" />
+    <option name="totallyTimeSpent" value="11647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17114094" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17397882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24362417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -547,16 +388,13 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.329429" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39970717" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.329429" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -564,7 +402,8 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.28477904" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.13909224" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3103953" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -587,6 +426,32 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
@@ -616,36 +481,20 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackt/config/WebConfig.java</url>
+          <line>11</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <MESSAGE value="po boon" />
-    <option name="LAST_COMMIT_MESSAGE" value="po boon" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/tile.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -656,57 +505,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/layouts/Template.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pages/index.jsp">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/tile.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        <state relative-caret-position="204">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/layouts/Template.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-          </folding>
-        <state relative-caret-position="238">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -714,11 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        <state relative-caret-position="136">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,13 +541,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="221" selection-start-line="221" selection-end-line="221" />
         </state>
-        <state relative-caret-position="-612" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
@@ -784,11 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="173" column="36" lean-forward="true" selection-start-line="173" selection-start-column="36" selection-end-line="173" selection-end-column="36" />
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,6 +588,186 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3110">
+          <caret line="715" column="16" selection-start-line="715" selection-start-column="16" selection-end-line="715" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SPRING/mappedClass=com.hackt.config.AppConfig">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SPRING</ID>
+          <OriginalElement>mappedClass=com.hackt.config.AppConfig</OriginalElement>
+          <nodes>
+            <node x="952.0" y="0.0">module=REPO;bean_name=context:annotation-config</node>
+            <node x="0.0" y="480.0">module=REPO;bean_name=(com.hackt) [Component]</node>
+            <node x="239.0" y="450.0">module=REPO;bean_class=com.hackt.controller.HomeController;bean_name=homeController</node>
+            <node x="252.5" y="510.0">module=REPO;bean_class=com.hackt.config.AppConfig;bean_name=appConfig</node>
+            <node x="426.0" y="510.0">module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration</node>
+            <node x="706.0" y="0.0">module=REPO;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping;bean_name=requestMappingHandlerMapping</node>
+            <node x="750.5" y="60.0">module=REPO;bean_class=org.springframework.util.PathMatcher;bean_name=mvcPathMatcher</node>
+            <node x="746.5" y="120.0">module=REPO;bean_class=org.springframework.web.util.UrlPathHelper;bean_name=mvcUrlPathHelper</node>
+            <node x="707.5" y="180.0">module=REPO;bean_class=org.springframework.web.accept.ContentNegotiationManager;bean_name=mvcContentNegotiationManager</node>
+            <node x="711.0" y="240.0">module=REPO;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=viewControllerHandlerMapping</node>
+            <node x="720.5" y="300.0">module=REPO;bean_class=org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping;bean_name=beanNameHandlerMapping</node>
+            <node x="727.0" y="360.0">module=REPO;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=resourceHandlerMapping</node>
+            <node x="730.5" y="420.0">module=REPO;bean_class=org.springframework.web.servlet.resource.ResourceUrlProvider;bean_name=mvcResourceUrlProvider</node>
+            <node x="713.0" y="480.0">module=REPO;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=defaultServletHandlerMapping</node>
+            <node x="708.5" y="540.0">module=REPO;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter;bean_name=requestMappingHandlerAdapter</node>
+            <node x="736.0" y="600.0">module=REPO;bean_class=org.springframework.format.support.FormattingConversionService;bean_name=mvcConversionService</node>
+            <node x="759.5" y="660.0">module=REPO;bean_class=org.springframework.validation.Validator;bean_name=mvcValidator</node>
+            <node x="712.5" y="720.0">module=REPO;bean_class=org.springframework.web.method.support.CompositeUriComponentsContributor;bean_name=mvcUriComponentsContributor</node>
+            <node x="720.0" y="780.0">module=REPO;bean_class=org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter;bean_name=httpRequestHandlerAdapter</node>
+            <node x="708.0" y="840.0">module=REPO;bean_class=org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter;bean_name=simpleControllerHandlerAdapter</node>
+            <node x="726.5" y="900.0">module=REPO;bean_class=org.springframework.web.servlet.HandlerExceptionResolver;bean_name=handlerExceptionResolver</node>
+            <node x="748.5" y="960.0">module=REPO;bean_class=org.springframework.web.servlet.ViewResolver;bean_name=mvcViewResolver</node>
+            <node x="706.5" y="1020.0">module=REPO;bean_class=org.springframework.web.servlet.handler.HandlerMappingIntrospector;bean_name=mvcHandlerMappingIntrospector</node>
+            <node x="1112.0" y="1085.0">module=REPO;bean_class=org.springframework.web.servlet.view.UrlBasedViewResolver;bean_name=viewResolver</node>
+            <node x="684.0" y="1085.0">module=REPO;bean_class=org.springframework.web.servlet.view.tiles3.TilesConfigurer;bean_name=tilesConfigurer</node>
+            <node x="0.0" y="1150.0">module=REPO;bean_class=org.springframework.core.env.Environment;bean_name=environment</node>
+            <node x="525.0" y="1085.0">module=REPO;bean_class=org.springframework.core.env.PropertyResolver;bean_name=propertyResolver</node>
+            <node x="362.0" y="1085.0">module=REPO;bean_class=org.springframework.core.convert.ConversionService;bean_name=conversionService</node>
+            <node x="0.0" y="1085.0">module=REPO;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext</node>
+            <node x="193.0" y="1085.0">module=REPO;bean_class=javax.servlet.http.HttpServletRequest;bean_name=httpServletRequest</node>
+            <node x="974.0" y="1085.0">module=REPO;bean_class=javax.servlet.ServletConfig;bean_name=servletConfig</node>
+            <node x="135.0" y="1150.0">module=REPO;bean_class=javax.servlet.http.HttpSession;bean_name=httpSession</node>
+            <node x="830.0" y="1085.0">module=REPO;bean_class=javax.servlet.ServletContext;bean_name=servletContext</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.ViewResolver;bean_name=mvcViewResolver">
+              <point x="100.0" y="8.333333333333371" />
+              <point x="706.0" y="970.0" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping;bean_name=requestMappingHandlerMapping">
+              <point x="100.0" y="-9.444444444444457" />
+              <point x="-100.5" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.format.support.FormattingConversionService;bean_name=mvcConversionService">
+              <point x="100.0" y="1.6666666666666288" />
+              <point x="706.0" y="610.0" />
+              <point x="-70.5" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.accept.ContentNegotiationManager;bean_name=mvcContentNegotiationManager">
+              <point x="100.0" y="-6.111111111111086" />
+              <point x="-99.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.HandlerExceptionResolver;bean_name=handlerExceptionResolver">
+              <point x="100.0" y="7.222222222222172" />
+              <point x="706.0" y="910.0" />
+              <point x="-80.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=viewControllerHandlerMapping">
+              <point x="100.0" y="-5.0" />
+              <point x="-95.5" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.method.support.CompositeUriComponentsContributor;bean_name=mvcUriComponentsContributor">
+              <point x="100.0" y="3.888888888888914" />
+              <point x="-94.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.handler.HandlerMappingIntrospector;bean_name=mvcHandlerMappingIntrospector">
+              <point x="100.0" y="9.444444444444457" />
+              <point x="-100.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.resource.ResourceUrlProvider;bean_name=mvcResourceUrlProvider">
+              <point x="100.0" y="-1.6666666666666288" />
+              <point x="706.0" y="430.0" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_name=(com.hackt) [Component]" target="module=REPO;bean_class=com.hackt.config.AppConfig;bean_name=appConfig">
+              <point x="79.5" y="5.0" />
+              <point x="239.0" y="520.0" />
+              <point x="-40.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_name=(com.hackt) [Component]" target="module=REPO;bean_class=com.hackt.controller.HomeController;bean_name=homeController">
+              <point x="79.5" y="-5.0" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.validation.Validator;bean_name=mvcValidator">
+              <point x="100.0" y="2.7777777777778283" />
+              <point x="706.0" y="670.0" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.util.PathMatcher;bean_name=mvcPathMatcher">
+              <point x="100.0" y="-8.333333333333314" />
+              <point x="706.0" y="70.0" />
+              <point x="-56.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter;bean_name=requestMappingHandlerAdapter">
+              <point x="100.0" y="0.5555555555555429" />
+              <point x="-98.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter;bean_name=simpleControllerHandlerAdapter">
+              <point x="100.0" y="6.111111111111086" />
+              <point x="-98.5" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=defaultServletHandlerMapping">
+              <point x="100.0" y="-0.5555555555555429" />
+              <point x="-93.5" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping;bean_name=beanNameHandlerMapping">
+              <point x="100.0" y="-3.888888888888914" />
+              <point x="706.0" y="310.0" />
+              <point x="-86.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.util.UrlPathHelper;bean_name=mvcUrlPathHelper">
+              <point x="100.0" y="-7.222222222222172" />
+              <point x="706.0" y="130.0" />
+              <point x="-60.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=resourceHandlerMapping">
+              <point x="100.0" y="-2.7777777777778283" />
+              <point x="706.0" y="370.0" />
+              <point x="-79.5" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=com.hackt.config.AppConfig;bean_name=appConfig" target="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration">
+              <point x="40.0" y="-0.0" />
+              <point x="-100.0" y="-0.0" />
+            </edge>
+            <edge source="module=REPO;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration" target="module=REPO;bean_class=org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter;bean_name=httpRequestHandlerAdapter">
+              <point x="100.0" y="5.0" />
+              <point x="706.0" y="790.0" />
+              <point x="-86.5" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.35294117647058826" x="-566.7499999999998" y="670.0" />
+          <SelectedNodes>
+            <node>module=REPO;bean_name=context:annotation-config</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Local context</Category>
+            <Category>Properties</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="70" lean-forward="true" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
         </state>
       </provider>
     </entry>
