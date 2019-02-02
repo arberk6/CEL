@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10e40b7c-b837-44f6-aaa3-bad00708a7a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hackt/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hackt/config/WebConfig.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hackt/controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#279#280#0" expanded="true" />
@@ -62,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hackt/config/WebConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="107">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,12 +104,13 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/tile.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/tiles.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/layouts/Template.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pages/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackt/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackt/config/AppConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackt/config/WebConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackt/config/WebConfig.java" />
       </list>
     </option>
   </component>
@@ -217,7 +219,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549066112589" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549066330199" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -325,7 +327,7 @@
       <workItem from="1549043485639" duration="2505000" />
       <workItem from="1549049913812" duration="3587000" />
       <workItem from="1549058316467" duration="693000" />
-      <workItem from="1549059534120" duration="6398000" />
+      <workItem from="1549059534120" duration="6770000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1549049997550</created>
@@ -369,11 +371,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549065856400</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1:06">
+      <created>1549065972130</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549065972130</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1:06">
+      <created>1549066125480</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1549066125480</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15460000" />
+    <option name="totallyTimeSpent" value="15832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -401,7 +417,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.09455371" side_tool="true" weight="0.46317512" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.9054463" weight="0.46317512" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" sideWeight="0.9054463" visible="true" weight="0.46317512" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -427,10 +443,37 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="po boon" />
-    <option name="LAST_COMMIT_MESSAGE" value="po boon" />
+    <MESSAGE value="1:06" />
+    <option name="LAST_COMMIT_MESSAGE" value="1:06" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/tile.xml" />
@@ -482,7 +525,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hackt/controller/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#279#280#0" expanded="true" />
@@ -492,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hackt/config/WebConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="107">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
