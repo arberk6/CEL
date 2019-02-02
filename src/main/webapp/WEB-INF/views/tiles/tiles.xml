@@ -8,7 +8,7 @@
         <put-attribute name="body" value="trang CHU"/>
     </definition>
 
-    <definition name="homePage" extends="layout-template">
+    <definition name="homePage" extends="template">
         <put-attribute name="title" value="Trang chu"/>
         <put-attribute name="body" value="/WEB-INF/views/pages/index.jsp"/>
     </definition>
